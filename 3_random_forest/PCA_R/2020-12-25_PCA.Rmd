@@ -1,0 +1,78 @@
+---
+title: "PCA for Hearthstone Decks"
+author: "Boyie Chen R08323004"
+date: "12/24/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+# Load Pacakges
+library(tidyverse)
+# Load Data
+df <- read_csv("/Users/Andy 1/Google 雲端硬碟 (r08323004@g.ntu.edu.tw)/0 Semesters/HS/2_tidy_data/data/df_Decks_tidy.csv")
+```
+# Find the ajacent matrix for all users listed in the dataframe
+
+```{r}
+df <- df %>% select(-1)
+features <- colnames(df)[1:17]
+# subset the cards
+cards <- df %>% 
+  select(-features)
+cards <- t(cards)
+head(rownames(cards))
+```
+
+### PCA
+```{r}
+# PCA
+card_PCA <- prcomp(cards, center = T, scale. = T)
+```
+
+```{r}
+getwd()
+saveRDS(card_PCA, file = "card_PCA_transpose.rds")
+# Restore the object
+#readRDS(file = "card_PCA.rds.rds")
+```
+
+### Plot
+
+```{r}
+# summary(pca)
+card_PCA$x %>% as_tibble() %>% select(PC1, PC2, PC3, PC4) %>% head()
+```
+### Attaching IDs
+
+```{r}
+pca_plot <- card_PCA$x %>%
+  as_tibble() %>%
+  select(1:4) %>%
+  bind_cols(ID = rownames(cards)) %>% 
+  arrange(desc(PC1, PC2))
+```
+
+```{r}
+dim(card_PCA$x)
+```
+
+### Visualization
+
+```{r}
+pca_plot %>% 
+  ggplot(aes(PC1, PC2))+
+  geom_point()
+
+#plot(pca_plot$PC1, pca_plot$PC2,
+#     ylim = c(-20, 20), xlim = c(-15, 10))
+```
+
+
+```{r}
+biplot(card_PCA, scale = 0)
+
+```
