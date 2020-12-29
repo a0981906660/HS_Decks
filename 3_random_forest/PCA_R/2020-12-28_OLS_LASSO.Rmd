@@ -1,0 +1,151 @@
+---
+title: "PCA for Hearthstone Decks"
+author: "Boyie Chen R08323004"
+date: "12/24/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+# Load Pacakges
+library(tidyverse)
+# Load Data
+df <- read_csv("/Users/Andy 1/Google 雲端硬碟 (r08323004@g.ntu.edu.tw)/0 Semesters/109-1/四 ccClub進階班/Final Projects/HS_Decks/2_tidy_data/data/df_Decks_tidy.csv")
+df <- df %>% 
+  #select(Demon_Hunter = 15) %>% 
+  select(-X1, -Deck_URL, -Deck_ID, -Deck_Name, -`Demon Hunter`)
+  #rename(Demon_Hunter = `Demon Hunter`) 
+
+```
+
+```{r}
+hist(df$win_rate_RE/100, freq = F)
+```
+
+
+```{r}
+colnames(df)[2:14]
+reg1 <- lm(win_rate_RE~time_duration_RE+game_count_RE+dust_cost+
+             Warrior+Warlock+Shaman+
+             Rogue+Priest+Paladin+
+             Mage+Hunter+Druid, data = df)
+summary(reg1)
+```
+
+```{r}
+reg2 <- lm(win_rate_RE~., data = df)
+summary(reg2)
+```
+
+# LASSO
+
+```{r}
+library(glmnet) #Lasso
+
+train_rows = sample(1:length(df), 0.66*length(df))
+X <- df %>% select(-win_rate_RE) %>% as.matrix
+Y <- df %>% select(win_rate_RE) %>% as.matrix
+
+#Trying different tuning parameter: lambda
+grid = 10^seq(2, -2, length = 1000)
+lasso.mod = glmnet(X, Y, alpha = 1, lambda = grid, intercept = F)
+plot(lasso.mod, xvar = 'lambda')
+plot(lasso.mod)
+
+
+X.train = as.matrix(X[train_rows,])
+X.test = as.matrix(X[-train_rows,])
+Y.train = as.matrix(Y[train_rows,])
+Y.test = as.matrix(Y[-train_rows,])
+
+#Obtain the optimal lambda through cross validation
+alpha1.fit = cv.glmnet(X.train, Y.train, type.measure = "mse", alpha = 1, family = "gaussian")
+alpha1.predict = predict(alpha1.fit, s = alpha1.fit$lambda.1se, newx = X.test)
+mean((Y.test - alpha1.predict)^2)
+alpha1.fit$lambda.1se
+
+################################################
+#看看得到的weight
+lasso.coef = predict(lasso.mod, type = 'coefficients', s = alpha1.fit$lambda.1se)
+lasso.coef #估出的係數(投資某檔股票的權重)
+lasso.coef[lasso.coef>0 | lasso.coef<0] #只看那些不為零的
+paste(colnames(df)[lasso.coef@i], "      ",lasso.coef@x)
+```
+
+```{r}
+LASSO_cards <- c("安全檢查員","盤牙督軍","維克圖斯","魔杖師","模範生史黛琳娜","愛玩筆的學生","討人厭的教師","導覽員","火爆的赤紅龍人","閃避飛龍","盜匪傘兵","托爾托朝聖者","虛無行者")
+LASSO_cards
+```
+
+
+
+# Find the ajacent matrix for all users listed in the dataframe
+
+```{r}
+df <- df %>% select(-1)
+features <- colnames(df)[1:17]
+# subset the cards
+cards <- df %>% 
+  select(-features)
+rownames(cards) <- paste0("deck_",1:length(df$Deck_ID))
+head(rownames(cards))
+```
+
+### PCA
+```{r}
+# PCA
+card_PCA <- prcomp(cards, center = T, scale. = T)
+```
+
+```{r}
+getwd()
+saveRDS(card_PCA, file = "card_PCA.rds")
+# Restore the object
+#readRDS(file = "card_PCA.rds.rds")
+```
+
+### Plot
+
+```{r}
+# summary(pca)
+card_PCA$x %>% as_tibble() %>% select(PC1, PC2, PC3, PC4) %>% head()
+```
+### Attaching IDs
+
+```{r}
+pca_plot <- card_PCA$x %>%
+  as_tibble() %>%
+  select(1:4) %>%
+  bind_cols(ID = rownames(cards)) %>% 
+  arrange(desc(PC1, PC2))
+```
+
+```{r}
+dim(card_PCA$x)
+```
+
+### Visualization
+
+```{r}
+pca_plot %>% 
+  ggplot(aes(PC1, PC2))+
+  geom_point()
+
+plot(pca_plot$PC1, pca_plot$PC2,
+     ylim = c(-20, 20), xlim = c(-15, 10))
+```
+
+
+```{r}
+biplot(card_PCA, scale = 0)
+
+library(ggfortify)
+length(unique(df$Deck_ID))
+autoplot(card_PCA, data = df, colour = 'Warrior')
+```
+```{r}
+autoplot(card_PCA, data = df, colour = 'Warrior')
+```

@@ -1,0 +1,11 @@
+\frametitle{Next Step...}
+
+^^I經過以上分析，我們仍有以下幾處問題尚待解決：
+
+^^I\begin{itemize}
+^^I^^I\item A better model selection decision for a tree-based model
+^^I^^I\item the validity of a continuous / discrete variable in Random Forest
+^^I^^I\item Random Forest with PCA dimension reduction
+^^I^^I\item There may exist a more reliable model for modeling the distribution of the winning rate
+^^I\end{itemize}
+

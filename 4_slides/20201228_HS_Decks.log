@@ -1,0 +1,2016 @@
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2020.2.18)  28 DEC 2020 22:56
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**20201228_HS_Decks.tex
+(./20201228_HS_Decks.tex
+LaTeX2e <2018-12-01>
+(/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamer.cls
+Document Class: beamer 2018/12/02 v3.55 A class for typesetting presentations
+(/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasemodes.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count80
+)
+\beamer@tempbox=\box27
+\beamer@tempcount=\count81
+\c@beamerpauses=\count82
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasedecode.sty
+\beamer@slideinframe=\count83
+\beamer@minimum=\count84
+)
+\beamer@commentbox=\box28
+\beamer@modecount=\count85
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+\headdp=\dimen102
+\footheight=\dimen103
+\sidebarheight=\dimen104
+\beamer@tempdim=\dimen105
+\beamer@finalheight=\dimen106
+\beamer@animht=\dimen107
+\beamer@animdp=\dimen108
+\beamer@animwd=\dimen109
+\beamer@leftmargin=\dimen110
+\beamer@rightmargin=\dimen111
+\beamer@leftsidebar=\dimen112
+\beamer@rightsidebar=\dimen113
+\beamer@boxsize=\dimen114
+\beamer@vboxoffset=\dimen115
+\beamer@descdefault=\dimen116
+\beamer@descriptionwidth=\dimen117
+\beamer@lastskip=\skip41
+\beamer@areabox=\box29
+\beamer@animcurrent=\box30
+\beamer@animshowbox=\box31
+\beamer@sectionbox=\box32
+\beamer@logobox=\box33
+\beamer@linebox=\box34
+\beamer@sectioncount=\count86
+\beamer@subsubsectionmax=\count87
+\beamer@subsectionmax=\count88
+\beamer@sectionmax=\count89
+\beamer@totalheads=\count90
+\beamer@headcounter=\count91
+\beamer@partstartpage=\count92
+\beamer@sectionstartpage=\count93
+\beamer@subsectionstartpage=\count94
+\beamer@animationtempa=\count95
+\beamer@animationtempb=\count96
+\beamer@xpos=\count97
+\beamer@ypos=\count98
+\beamer@ypos@offset=\count99
+\beamer@showpartnumber=\count100
+\beamer@currentsubsection=\count101
+\beamer@coveringdepth=\count102
+\beamer@sectionadjust=\count103
+\beamer@tocsectionnumber=\count104
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbaseoptions.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+))
+\beamer@paperwidth=\skip42
+\beamer@paperheight=\skip43
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count105
+\Gm@cntv=\count106
+\c@Gm@tempcnt=\count107
+\Gm@bindingoffset=\dimen118
+\Gm@wd@mp=\dimen119
+\Gm@odd@mp=\dimen120
+\Gm@even@mp=\dimen121
+\Gm@layoutwidth=\dimen122
+\Gm@layoutheight=\dimen123
+\Gm@layouthoffset=\dimen124
+\Gm@layoutvoffset=\dimen125
+\Gm@dimlist=\toks15
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 99.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen126
+\Gin@req@width=\dimen127
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
+x
+\pgfutil@everybye=\toks16
+\pgfutil@tempdima=\dimen128
+\pgfutil@tempdimb=\dimen129
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
+sts.tex))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box35
+(/usr/local/texlive/2019/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2019/04/04 v3.1.2 (3.1.2)
+))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2019/04/04 v3.1.2 (3.1.2)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks17
+\pgfkeys@temptoks=\toks18
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
+ode.tex
+\pgfkeys@tmptoks=\toks19
+))
+\pgf@x=\dimen130
+\pgf@y=\dimen131
+\pgf@xa=\dimen132
+\pgf@ya=\dimen133
+\pgf@xb=\dimen134
+\pgf@yb=\dimen135
+\pgf@xc=\dimen136
+\pgf@yc=\dimen137
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count108
+\c@pgf@countb=\count109
+\c@pgf@countc=\count110
+\c@pgf@countd=\count111
+\t@pgf@toka=\toks20
+\t@pgf@tokb=\toks21
+\t@pgf@tokc=\toks22
+\pgf@sys@id@count=\count112
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2019/04/04 v3.1.2 (3.1.2)
+)
+Driver file for pgf: pgfsys-xetex.def
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.de
+f
+File: pgfsys-xetex.def 2019/04/04 v3.1.2 (3.1.2)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx
+.def
+File: pgfsys-dvipdfmx.def 2019/04/04 v3.1.2 (3.1.2)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
+df.def
+File: pgfsys-common-pdf.def 2019/04/04 v3.1.2 (3.1.2)
+)
+\pgfsys@objnum=\count113
+)))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
+code.tex
+File: pgfsyssoftpath.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgfsyssoftpath@smallbuffer@items=\count114
+\pgfsyssoftpath@bigbuffer@items=\count115
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
+code.tex
+File: pgfsysprotocol.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)) (/usr/local/texlive/2019/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2019/04/04 v3.1.2 (3.1.2)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen138
+\pgfmath@count=\count116
+\pgfmath@box=\box36
+\pgfmath@toks=\toks23
+\pgfmath@stack@operand=\toks24
+\pgfmath@stack@operation=\toks25
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
+tex
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
+.code.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
+nometric.code.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
+m.code.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
+rison.code.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
+code.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
+.code.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
+code.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
+erarithmetics.code.tex)))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count117
+))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
+de.tex
+File: pgfcorepoints.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@picminx=\dimen139
+\pgf@picmaxx=\dimen140
+\pgf@picminy=\dimen141
+\pgf@picmaxy=\dimen142
+\pgf@pathminx=\dimen143
+\pgf@pathmaxx=\dimen144
+\pgf@pathminy=\dimen145
+\pgf@pathmaxy=\dimen146
+\pgf@xx=\dimen147
+\pgf@xy=\dimen148
+\pgf@yx=\dimen149
+\pgf@yy=\dimen150
+\pgf@zx=\dimen151
+\pgf@zy=\dimen152
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
+ruct.code.tex
+File: pgfcorepathconstruct.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@path@lastx=\dimen153
+\pgf@path@lasty=\dimen154
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
+.code.tex
+File: pgfcorepathusage.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@shorten@end@additional=\dimen155
+\pgf@shorten@start@additional=\dimen156
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
+de.tex
+File: pgfcorescopes.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgfpic=\box37
+\pgf@hbox=\box38
+\pgf@layerbox@main=\box39
+\pgf@picture@serial@count=\count118
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
+ate.code.tex
+File: pgfcoregraphicstate.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgflinewidth=\dimen157
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
+ations.code.tex
+File: pgfcoretransformations.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@pt@x=\dimen158
+\pgf@pt@y=\dimen159
+\pgf@pt@temp=\dimen160
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
+e.tex
+File: pgfcorequick.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
+ode.tex
+File: pgfcoreobjects.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
+ssing.code.tex
+File: pgfcorepathprocessing.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
+de.tex
+File: pgfcorearrows.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgfarrowsep=\dimen161
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
+e.tex
+File: pgfcoreshade.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@max=\dimen162
+\pgf@sys@shading@range@num=\count119
+\pgf@shadingcount=\count120
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
+e.tex
+File: pgfcoreimage.code.tex 2019/04/04 v3.1.2 (3.1.2)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
+code.tex
+File: pgfcoreexternal.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgfexternal@startupbox=\box40
+))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
+de.tex
+File: pgfcorelayers.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
+ncy.code.tex
+File: pgfcoretransparency.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
+code.tex
+File: pgfcorepatterns.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.
+tex
+File: pgfcorerdf.code.tex 2019/04/04 v3.1.2 (3.1.2)
+))) (/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/utilities/xxcolor.sty
+Package: xxcolor 2003/10/24 ver 0.1
+\XC@nummixins=\count121
+\XC@countmixins=\count122
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: pdfTeX >= 1.30 not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package hobsub Info: Skipping package `atbegshi' (already loaded).
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen163
+\Hy@linkcounter=\count123
+\Hy@pagecounter=\count124
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count125
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4393.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4393.
+Package hyperref Info: Option `implicit' set `false' on input line 4393.
+Package hyperref Info: Hyper figures OFF on input line 4519.
+Package hyperref Info: Link nesting OFF on input line 4524.
+Package hyperref Info: Hyper index ON on input line 4527.
+Package hyperref Info: Plain pages OFF on input line 4534.
+Package hyperref Info: Backreferencing OFF on input line 4539.
+Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
+Package hyperref Info: Bookmarks ON on input line 4772.
+\c@Hy@tempcnt=\count126
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5125.
+\XeTeXLinkMargin=\dimen164
+\Fld@menulength=\count127
+\Field@Width=\dimen165
+\Fld@charsize=\dimen166
+Package hyperref Info: Hyper figures OFF on input line 6380.
+Package hyperref Info: Link nesting OFF on input line 6385.
+Package hyperref Info: Hyper index ON on input line 6388.
+Package hyperref Info: backreferencing OFF on input line 6395.
+Package hyperref Info: Link coloring OFF on input line 6400.
+Package hyperref Info: Link coloring with OCG OFF on input line 6405.
+Package hyperref Info: PDF/A mode OFF on input line 6410.
+LaTeX Info: Redefining \ref on input line 6450.
+LaTeX Info: Redefining \pageref on input line 6454.
+\Hy@abspage=\count128
+
+
+Package hyperref Message: Stopped early.
+
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2018/11/30 v6.88e Hyperref driver for XeTeX
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2018/11/30 v6.88e Hyperref: PDF Unicode definition (HO)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/stringenc.sty
+Package: stringenc 2016/05/16 v1.11 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box41
+\c@Hy@AnnotLevel=\count129
+\HyField@AnnotCount=\count130
+\Fld@listcount=\count131
+\c@bookmark@seq@number=\count132
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
+File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
+
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbaserequires.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasecompatibility.st
+y) (/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasefont.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks26
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/sansmathaccent/sansmathaccent.sty
+Package: sansmathaccent 2013/03/28
+(/usr/local/texlive/2019/texmf-dist/tex/latex/filehook/filehook.sty
+Package: filehook 2011/10/12 v0.5d Hooks for input files
+)))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasetranslator.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/translator/translator.sty
+Package: translator 2018/01/04 v1.12 Easy translation of strings in LaTeX
+))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasemisc.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasetwoscreens.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbaseoverlay.sty
+\beamer@argscount=\count133
+\beamer@lastskipcover=\skip44
+\beamer@trivlistdepth=\count134
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasetitle.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasesection.sty
+\c@lecture=\count135
+\c@part=\count136
+\c@section=\count137
+\c@subsection=\count138
+\c@subsubsection=\count139
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbaseframe.sty
+\beamer@framebox=\box42
+\beamer@frametitlebox=\box43
+\beamer@zoombox=\box44
+\beamer@zoomcount=\count140
+\beamer@zoomframecount=\count141
+\beamer@frametextheight=\dimen167
+\c@subsectionslide=\count142
+\beamer@frametopskip=\skip45
+\beamer@framebottomskip=\skip46
+\beamer@frametopskipautobreak=\skip47
+\beamer@framebottomskipautobreak=\skip48
+\beamer@envbody=\toks27
+\framewidth=\dimen168
+\c@framenumber=\count143
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbaseverbatim.sty
+\beamer@verbatimfileout=\write4
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbaseframesize.sty
+\beamer@splitbox=\box45
+\beamer@autobreakcount=\count144
+\beamer@autobreaklastheight=\dimen169
+\beamer@frametitletoks=\toks28
+\beamer@framesubtitletoks=\toks29
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbaseframecomponents.
+sty
+\beamer@footins=\box46
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasecolor.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasenotes.sty
+\beamer@frameboxcopy=\box47
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasetoc.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasetemplates.sty
+\beamer@sbttoks=\toks30
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbaseauxtemplates.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbaseboxes.sty
+\bmb@box=\box48
+\bmb@colorbox=\box49
+\bmb@boxshadow=\box50
+\bmb@boxshadowball=\box51
+\bmb@boxshadowballlarge=\box52
+\bmb@temp=\dimen170
+\bmb@dima=\dimen171
+\bmb@dimb=\dimen172
+\bmb@prevheight=\dimen173
+)
+\beamer@blockheadheight=\dimen174
+))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbaselocalstructure.s
+ty (/usr/local/texlive/2019/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks31
+)
+\c@figure=\count145
+\c@table=\count146
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasenavigation.sty
+\beamer@section@min@dim=\dimen175
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasetheorems.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks32
+\ex@=\dimen176
+))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen177
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count147
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count148
+\leftroot@=\count149
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count150
+\DOTSCASE@=\count151
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+\big@size=\dimen178
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count152
+\c@MaxMatrixCols=\count153
+\dotsspace@=\muskip11
+\c@parentequation=\count154
+\dspbrk@lvl=\count155
+\tag@help=\toks33
+\row@=\count156
+\column@=\count157
+\maxfields@=\count158
+\andhelp@=\toks34
+\eqnshift@=\dimen179
+\alignsep@=\dimen180
+\tagshift@=\dimen181
+\tagwidth@=\dimen182
+\totwidth@=\dimen183
+\lineht@=\dimen184
+\@envbody=\toks35
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks36
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks37
+\thm@bodyfont=\toks38
+\thm@headfont=\toks39
+\thm@notefont=\toks40
+\thm@headpunct=\toks41
+\thm@preskip=\skip54
+\thm@postskip=\skip55
+\thm@headsep=\skip56
+\dth@everypar=\toks42
+)
+\c@theorem=\count159
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasethemes.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerthemedefault.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerfontthemedefault.sty
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamercolorthemedefault.st
+y)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerinnerthemedefault.st
+y
+\beamer@dima=\dimen185
+\beamer@dimb=\dimen186
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerouterthemedefault.st
+y))) (/usr/local/texlive/2019/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2019-05-07 L3 programming layer (loader) 
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2019-05-07 L3 programming layer (code)
+\c_max_int=\count160
+\l_tmpa_int=\count161
+\l_tmpb_int=\count162
+\g_tmpa_int=\count163
+\g_tmpb_int=\count164
+\g__kernel_prg_map_int=\count165
+\c__ior_term_ior=\count166
+\c_log_iow=\count167
+\l_iow_line_count_int=\count168
+\l__iow_line_target_int=\count169
+\l__iow_one_indent_int=\count170
+\l__iow_indent_int=\count171
+\c_zero_dim=\dimen187
+\c_max_dim=\dimen188
+\l_tmpa_dim=\dimen189
+\l_tmpb_dim=\dimen190
+\g_tmpa_dim=\dimen191
+\g_tmpb_dim=\dimen192
+\c_zero_skip=\skip57
+\c_max_skip=\skip58
+\l_tmpa_skip=\skip59
+\l_tmpb_skip=\skip60
+\g_tmpa_skip=\skip61
+\g_tmpb_skip=\skip62
+\c_zero_muskip=\muskip12
+\c_max_muskip=\muskip13
+\l_tmpa_muskip=\muskip14
+\l_tmpb_muskip=\muskip15
+\g_tmpa_muskip=\muskip16
+\g_tmpb_muskip=\muskip17
+\l_keys_choice_int=\count172
+\l__intarray_loop_int=\count173
+\c__intarray_sp_dim=\dimen193
+\g__intarray_font_int=\count174
+\c__fp_leading_shift_int=\count175
+\c__fp_middle_shift_int=\count176
+\c__fp_trailing_shift_int=\count177
+\c__fp_big_leading_shift_int=\count178
+\c__fp_big_middle_shift_int=\count179
+\c__fp_big_trailing_shift_int=\count180
+\c__fp_Bigg_leading_shift_int=\count181
+\c__fp_Bigg_middle_shift_int=\count182
+\c__fp_Bigg_trailing_shift_int=\count183
+\g__fp_array_int=\count184
+\l__fp_array_loop_int=\count185
+\l__sort_length_int=\count186
+\l__sort_min_int=\count187
+\l__sort_top_int=\count188
+\l__sort_max_int=\count189
+\l__sort_true_max_int=\count190
+\l__sort_block_int=\count191
+\l__sort_begin_int=\count192
+\l__sort_end_int=\count193
+\l__sort_A_int=\count194
+\l__sort_B_int=\count195
+\l__sort_C_int=\count196
+\l__tl_analysis_normal_int=\count197
+\l__tl_analysis_index_int=\count198
+\l__tl_analysis_nesting_int=\count199
+\l__tl_analysis_type_int=\count266
+\l__regex_internal_a_int=\count267
+\l__regex_internal_b_int=\count268
+\l__regex_internal_c_int=\count269
+\l__regex_balance_int=\count270
+\l__regex_group_level_int=\count271
+\l__regex_mode_int=\count272
+\c__regex_cs_in_class_mode_int=\count273
+\c__regex_cs_mode_int=\count274
+\l__regex_catcodes_int=\count275
+\l__regex_default_catcodes_int=\count276
+\c__regex_catcode_L_int=\count277
+\c__regex_catcode_O_int=\count278
+\c__regex_catcode_A_int=\count279
+\c__regex_all_catcodes_int=\count280
+\l__regex_show_lines_int=\count281
+\l__regex_min_state_int=\count282
+\l__regex_max_state_int=\count283
+\l__regex_left_state_int=\count284
+\l__regex_right_state_int=\count285
+\l__regex_capturing_group_int=\count286
+\l__regex_min_pos_int=\count287
+\l__regex_max_pos_int=\count288
+\l__regex_curr_pos_int=\count289
+\l__regex_start_pos_int=\count290
+\l__regex_success_pos_int=\count291
+\l__regex_curr_char_int=\count292
+\l__regex_curr_catcode_int=\count293
+\l__regex_last_char_int=\count294
+\l__regex_case_changed_char_int=\count295
+\l__regex_curr_state_int=\count296
+\l__regex_step_int=\count297
+\l__regex_min_active_int=\count298
+\l__regex_max_active_int=\count299
+\l__regex_replacement_csnames_int=\count300
+\l__regex_match_count_int=\count301
+\l__regex_min_submatch_int=\count302
+\l__regex_submatch_int=\count303
+\l__regex_zeroth_submatch_int=\count304
+\g__regex_trace_regex_int=\count305
+\c_empty_box=\box55
+\l_tmpa_box=\box56
+\l_tmpb_box=\box57
+\g_tmpa_box=\box58
+\g_tmpb_box=\box59
+\l__box_top_dim=\dimen194
+\l__box_bottom_dim=\dimen195
+\l__box_left_dim=\dimen196
+\l__box_right_dim=\dimen197
+\l__box_top_new_dim=\dimen198
+\l__box_bottom_new_dim=\dimen199
+\l__box_left_new_dim=\dimen256
+\l__box_right_new_dim=\dimen257
+\l__box_internal_box=\box60
+\l__coffin_internal_box=\box61
+\l__coffin_internal_dim=\dimen258
+\l__coffin_offset_x_dim=\dimen259
+\l__coffin_offset_y_dim=\dimen260
+\l__coffin_x_dim=\dimen261
+\l__coffin_y_dim=\dimen262
+\l__coffin_x_prime_dim=\dimen263
+\l__coffin_y_prime_dim=\dimen264
+\c_empty_coffin=\box62
+\l__coffin_aligned_coffin=\box63
+\l__coffin_aligned_internal_coffin=\box64
+\l_tmpa_coffin=\box65
+\l_tmpb_coffin=\box66
+\g_tmpa_coffin=\box67
+\g_tmpb_coffin=\box68
+\l__coffin_bounding_shift_dim=\dimen265
+\l__coffin_left_corner_dim=\dimen266
+\l__coffin_right_corner_dim=\dimen267
+\l__coffin_bottom_corner_dim=\dimen268
+\l__coffin_top_corner_dim=\dimen269
+\l__coffin_scaled_total_height_dim=\dimen270
+\l__coffin_scaled_width_dim=\dimen271
+\c__coffin_empty_coffin=\box69
+\l__coffin_display_coffin=\box70
+\l__coffin_display_coord_coffin=\box71
+\l__coffin_display_pole_coffin=\box72
+\l__coffin_display_offset_dim=\dimen272
+\l__coffin_display_x_dim=\dimen273
+\l__coffin_display_y_dim=\dimen274
+\g__file_internal_ior=\read2
+\l__seq_internal_a_int=\count306
+\l__seq_internal_b_int=\count307
+\c__deprecation_minus_one=\count308
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
+File: l3xdvipdfmx.def 2019-04-06 v L3 Experimental driver: xdvipdfmx
+\g__driver_image_int=\count309
+\l__driver_pdf_tmp_box=\box73
+\g__driver_pdf_object_int=\count310
+\g__driver_pdf_annotation_int=\count311
+))
+Package: xeCJK 2019/04/07 v3.7.2 Typesetting CJK scripts with XeLaTeX
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.st
+y
+Package: xtemplate 2019-05-03 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen275
+\l__xtemplate_tmp_int=\count312
+\l__xtemplate_tmp_muskip=\muskip18
+\l__xtemplate_tmp_skip=\skip63
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2019-05-03 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count313
+\g__xparse_grabber_int=\count314
+\l__xparse_m_args_int=\count315
+\l__xparse_v_nesting_int=\count316
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2019-05-03 LaTeX2e option processing using LaTeX3 keys
+)
+\l__xeCJK_tmp_int=\count317
+\l__xeCJK_tmp_box=\box74
+\l__xeCJK_tmp_dim=\dimen276
+\l__xeCJK_tmp_skip=\skip64
+\g__xeCJK_space_factor_int=\count318
+\l__xeCJK_begin_int=\count319
+\l__xeCJK_end_int=\count320
+\c__xeCJK_CJK_class_int=\XeTeXcharclass1
+\c__xeCJK_FullLeft_class_int=\XeTeXcharclass2
+\c__xeCJK_FullRight_class_int=\XeTeXcharclass3
+\c__xeCJK_HalfLeft_class_int=\XeTeXcharclass4
+\c__xeCJK_HalfRight_class_int=\XeTeXcharclass5
+\c__xeCJK_NormalSpace_class_int=\XeTeXcharclass6
+\c__xeCJK_CM_class_int=\XeTeXcharclass7
+\c__xeCJK_HangulJamo_class_int=\XeTeXcharclass8
+\l__xeCJK_last_skip=\skip65
+\g__xeCJK_node_int=\count321
+\c__xeCJK_CJK_node_dim=\dimen277
+\c__xeCJK_CJK-space_node_dim=\dimen278
+\c__xeCJK_default_node_dim=\dimen279
+\c__xeCJK_default-space_node_dim=\dimen280
+\c__xeCJK_CJK-widow_node_dim=\dimen281
+\c__xeCJK_normalspace_node_dim=\dimen282
+\l__xeCJK_ccglue_skip=\skip66
+\l__xeCJK_ecglue_skip=\skip67
+\l__xeCJK_punct_kern_skip=\skip68
+\l__xeCJK_last_penalty_int=\count322
+\l__xeCJK_last_bound_dim=\dimen283
+\l__xeCJK_last_kern_dim=\dimen284
+\l__xeCJK_widow_penalty_int=\count323
+
+Package xtemplate Info: Declaring object type 'xeCJK/punctuation' taking 0
+(xtemplate)             argument(s) on line 2352.
+
+\l__xeCJK_fixed_punct_width_dim=\dimen285
+\l__xeCJK_mixed_punct_width_dim=\dimen286
+\l__xeCJK_middle_punct_width_dim=\dimen287
+\l__xeCJK_fixed_margin_width_dim=\dimen288
+\l__xeCJK_mixed_margin_width_dim=\dimen289
+\l__xeCJK_middle_margin_width_dim=\dimen290
+\l__xeCJK_bound_punct_width_dim=\dimen291
+\l__xeCJK_bound_margin_width_dim=\dimen292
+\l__xeCJK_margin_minimum_dim=\dimen293
+\l__xeCJK_kerning_total_width_dim=\dimen294
+\l__xeCJK_same_align_margin_dim=\dimen295
+\l__xeCJK_different_align_margin_dim=\dimen296
+\l__xeCJK_kerning_margin_width_dim=\dimen297
+\l__xeCJK_kerning_margin_minimum_dim=\dimen298
+\l__xeCJK_bound_dim=\dimen299
+\l__xeCJK_reverse_bound_dim=\dimen300
+\l__xeCJK_minimum_bound_dim=\dimen301
+\l__xeCJK_kerning_margin_dim=\dimen302
+\l__xeCJK_original_margin_dim=\dimen303
+\g__xeCJK_family_int=\count324
+\l__xeCJK_fam_int=\count325
+\g__xeCJK_fam_allocation_int=\count326
+\l__xeCJK_verb_case_int=\count327
+\l__xeCJK_verb_exspace_skip=\skip69
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2019/03/15 v2.7c Font selection for XeLaTeX and LuaLaTeX
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2019/03/15 v2.7c Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count328
+\l__fontspec_language_int=\count329
+\l__fontspec_strnum_int=\count330
+\l__fontspec_tmp_int=\count331
+\l__fontspec_tmpa_int=\count332
+\l__fontspec_tmpb_int=\count333
+\l__fontspec_tmpc_int=\count334
+\l__fontspec_em_int=\count335
+\l__fontspec_emdef_int=\count336
+\l__fontspec_strong_int=\count337
+\l__fontspec_strongdef_int=\count338
+\l__fontspec_tmpa_dim=\dimen304
+\l__fontspec_tmpb_dim=\dimen305
+\l__fontspec_tmpc_dim=\dimen306
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/tuenc.def
+File: tuenc.def 2018/08/11 v2.0j Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TU on input line 82.
+))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fontspec/fontspec.cfg)
+LaTeX Info: Redefining \itshape on input line 4051.
+LaTeX Info: Redefining \slshape on input line 4056.
+LaTeX Info: Redefining \scshape on input line 4061.
+LaTeX Info: Redefining \upshape on input line 4066.
+LaTeX Info: Redefining \em on input line 4096.
+LaTeX Info: Redefining \emph on input line 4121.
+LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <12> not available
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 4171.
+
+))
+(/usr/local/texlive/2019/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
+File: xeCJK.cfg 2019/04/07 v3.7.2 Configuration file for xeCJK package
+))
+
+Package fontspec Info: Could not resolve font "蘋方-繁/I" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Font family '蘋方-繁(0)' created for font '蘋方-繁' with
+(fontspec)             options [Script={CJK}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"蘋方-繁/OT:script=hani;language=DFLT;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (bx/n) with NFSS spec.:
+(fontspec)             <->"蘋方-繁/B/OT:script=hani;language=DFLT;"
+(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.: 
+(fontspec)             - 'bold italic' (bx/it) with NFSS spec.:
+(fontspec)             <->"蘋方-繁/BI/OT:script=hani;language=DFLT;"
+(fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
+
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 105.
+
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/lm/t1lmss.fd
+File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerthemeCambridgeUS.sty
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerinnerthemerounded.st
+y)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerouterthemeinfolines.
+sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamercolorthemebeaver.sty
+)) (/Users/Andy 1/Library/texmf/tex/latex/MinionPro/MinionPro.sty
+Package: MinionPro 2012/08/03 v2.3 MinionPro support for LaTeX
+
+(/Users/Andy 1/Library/texmf/tex/latex/MinionPro/MinionPro-FontDef.sty
+File: MinionPro-FontDef.sty 2007/02/01 v2.2 font definition macros
+
+(/Users/Andy 1/Library/texmf/tex/latex/MinionPro/otfontdef.sty
+Package: otfontdef 2005/06/04 v0.1e OpenType font definition
+)
+\Mn@option@normalsize=\dimen307
+Package MinionPro-FontDef Info: Configuration: smallfamily, noopticals, normals
+ize=12.0pt on input line 52.
+\Mn@config@cnt=\count339
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/fltpoint/fltpoint.sty
+Package: fltpoint 2004/11/12 v1.1b floating point arithmetic
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/fltpoint/fltpoint.tex
+\fp@loopcount=\count340
+\fp@loopcountii=\count341
+\fp@result=\count342
+\fp@carryover=\count343
+\fp@tempcount=\count344
+\fp@tempcountii=\count345
+))
+\Mn@fontdimen=\dimen308
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2018/08/11 v2.0j Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/mnsymbol/MnSymbol.sty
+Package: MnSymbol 2007/01/21 v1.4 support for the MnSymbol font
+LaTeX Info: Redefining \dagger on input line 84.
+LaTeX Info: Redefining \ddagger on input line 84.
+LaTeX Info: Redefining \mathparagraph on input line 84.
+LaTeX Info: Redefining \mathsection on input line 84.
+LaTeX Info: Redefining \mathdollar on input line 84.
+LaTeX Info: Redefining \mathsterling on input line 84.
+LaTeX Info: Redefining \yen on input line 84.
+LaTeX Info: Redefining \circledR on input line 84.
+LaTeX Info: Redefining \circledS on input line 84.
+LaTeX Info: Redefining \Re on input line 84.
+LaTeX Info: Redefining \Im on input line 84.
+LaTeX Info: Redefining \dotplus on input line 84.
+LaTeX Info: Redefining \thicksim on input line 84.
+LaTeX Info: Redefining \thickapprox on input line 84.
+LaTeX Info: Redefining \veebar on input line 84.
+LaTeX Info: Redefining \barwedge on input line 84.
+LaTeX Info: Redefining \doublebarwedge on input line 84.
+LaTeX Info: Redefining \centerdot on input line 84.
+LaTeX Info: Redefining \divideontimes on input line 84.
+\symMnSyA=\mathgroup6
+\symMnSyB=\mathgroup7
+\symMnSyC=\mathgroup8
+\symMnSyD=\mathgroup9
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 119.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/MnSymbolE/m/n on input line 119.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/MnSymbolE/m/n on input line 119.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 120.
+LaTeX Font Info:    Encoding `OMS' has changed to `U' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 120.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> U/MnSymbolF/m/n on input line 120.
+LaTeX Font Info:    Encoding `OMS' has changed to `U' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 120.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> U/MnSymbolF/m/n on input line 120.
+LaTeX Font Info:    Overwriting symbol font `MnSyA' in version `bold'
+(Font)                  U/MnSymbolA/m/n --> U/MnSymbolA/b/n on input line 121.
+LaTeX Font Info:    Overwriting symbol font `MnSyB' in version `bold'
+(Font)                  U/MnSymbolB/m/n --> U/MnSymbolB/b/n on input line 122.
+LaTeX Font Info:    Overwriting symbol font `MnSyC' in version `bold'
+(Font)                  U/MnSymbolC/m/n --> U/MnSymbolC/b/n on input line 123.
+LaTeX Font Info:    Overwriting symbol font `MnSyD' in version `bold'
+(Font)                  U/MnSymbolD/m/n --> U/MnSymbolD/b/n on input line 124.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/MnSymbolE/m/n --> OMX/MnSymbolE/b/n on input line 1
+25.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  U/MnSymbolF/m/n --> U/MnSymbolF/b/n on input line 126.
+LaTeX Font Info:    Redeclaring math alphabet \mathcal on input line 241.
+LaTeX Font Info:    Overwriting math alphabet `\mathcal' in version `bold'
+(Font)                  OMS/MnSymbolS/m/n --> OMS/MnSymbolS/b/n on input line 2
+41.
+LaTeX Info: Redefining \longrightarrow on input line 548.
+LaTeX Info: Redefining \longleftarrow on input line 549.
+LaTeX Info: Redefining \longleftrightarrow on input line 550.
+LaTeX Info: Redefining \Longrightarrow on input line 551.
+LaTeX Info: Redefining \Longleftarrow on input line 552.
+LaTeX Info: Redefining \Longleftrightarrow on input line 553.
+LaTeX Info: Redefining \longmapsto on input line 554.
+LaTeX Info: Redefining \vdots on input line 868.
+LaTeX Font Info:    Redeclaring math symbol \braceld on input line 1721.
+LaTeX Font Info:    Redeclaring math symbol \bracelu on input line 1722.
+LaTeX Font Info:    Redeclaring math symbol \bracerd on input line 1723.
+LaTeX Font Info:    Redeclaring math symbol \braceru on input line 1724.
+LaTeX Info: Redefining \downbracefill on input line 1799.
+LaTeX Info: Redefining \upbracefill on input line 1800.
+LaTeX Info: Redefining \overbrace on input line 1819.
+LaTeX Info: Redefining \underbrace on input line 1820.
+LaTeX Info: Redefining \surd on input line 1843.
+LaTeX Font Info:    Redeclaring math accent \widehat on input line 1845.
+LaTeX Font Info:    Redeclaring math accent \widetilde on input line 1846.
+LaTeX Font Info:    Redeclaring math accent \vec on input line 1848.
+)
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 181.
+LaTeX Font Info:    Encoding `OT1' has changed to `T1' for symbol font
+(Font)              `operators' in the math version `normal' on input line 181.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> T1/MinionPro-OsF/m/n on input line 181.
+
+LaTeX Font Info:    Encoding `OT1' has changed to `T1' for symbol font
+(Font)              `operators' in the math version `bold' on input line 181.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> T1/MinionPro-OsF/m/n on input line 181
+.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 182.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/MinionPro-TOsF/m/it on input line 
+182.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/MinionPro-TOsF/m/it on input line 
+182.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  T1/MinionPro-OsF/m/n --> T1/MinionPro-OsF/eb/n on input
+ line 183.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/MinionPro-TOsF/m/it --> OML/MinionPro-TOsF/eb/it on
+ input line 184.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 185.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> T1/MinionPro-OsF/eb/n on input line 18
+5.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> T1/MinionPro-OsF/eb/n on input line 18
+5.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 186.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> T1/MinionPro-OsF/m/it on input line 18
+6.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> T1/MinionPro-OsF/m/it on input line 1
+86.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  T1/MinionPro-OsF/m/it --> T1/MinionPro-OsF/eb/it on inp
+ut line 187.
+\c@mv@tabular=\count346
+LaTeX Font Info:    Overwriting symbol font `operators' in version `tabular'
+(Font)                  T1/MinionPro-OsF/m/n --> T1/MinionPro-TOsF/m/n on input
+ line 189.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `tabular'
+(Font)                  OML/MinionPro-TOsF/m/it --> OML/MinionPro-TOsF/m/it on 
+input line 190.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `tabular'
+(Font)                  OT1/cmr/m/it --> T1/MinionPro-TOsF/m/it on input line 1
+91.
+\c@mv@boldtabular=\count347
+LaTeX Font Info:    Overwriting symbol font `operators' in version `boldtabular
+'
+(Font)                  T1/MinionPro-OsF/m/n --> T1/MinionPro-TOsF/eb/n on inpu
+t line 194.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `boldtabular'
+(Font)                  OML/MinionPro-TOsF/m/it --> OML/MinionPro-TOsF/eb/it on
+ input line 195.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `boldtabular
+'
+(Font)                  OT1/cmr/m/it --> T1/MinionPro-TOsF/eb/it on input line 
+196.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 197.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 198.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 199.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 200.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 201.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 202.
+LaTeX Font Info:    Redeclaring math accent \check on input line 203.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 204.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 205.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 206.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+Package: fontaxes 2014/03/23 v1.0d Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \scshape on input line 37.
+)
+LaTeX Font Info:    Redeclaring math symbol \partial on input line 517.
+LaTeX Font Info:    Redeclaring math symbol \ell on input line 519.
+Package textcomp Info: Setting MinionPro-LF sub-encoding to TS1/1 on input line
+ 539.
+Package textcomp Info: Setting MinionPro-TLF sub-encoding to TS1/1 on input lin
+e 540.
+Package textcomp Info: Setting MinionPro-OsF sub-encoding to TS1/1 on input lin
+e 541.
+Package textcomp Info: Setting MinionPro-TOsF sub-encoding to TS1/1 on input li
+ne 542.
+LaTeX Info: Redefining \LaTeX on input line 615.
+)
+(/Users/Andy 1/Library/texmf/tex/latex/MyriadPro/MyriadPro.sty
+Package: MyriadPro 2013/04/20 v0.5 MyriadPro support for LaTeX
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/Users/Andy 1/Library/texmf/tex/latex/MyriadPro/MyriadPro-FontDef.sty
+File: MyriadPro-FontDef.sty 2012/02/17 v0.3 font definition macros
+\My@option@normalsize=\dimen309
+Package MyriadPro-FontDef Info: Configuration: smallfamily, noopticals, normals
+ize=12.0pt on input line 48.
+\My@config@cnt=\count348
+\My@fontdimen=\dimen310
+)
+\MdSlantfracSpacingBeforeSlash=\skip70
+\MdSlantfracSpacingAfterSlash=\skip71
+
+Using the configuration file MyriadPro.cfg
+(/Users/Andy 1/Library/texmf/tex/latex/MyriadPro/MyriadPro.cfg)
+Package textcomp Info: Setting MyriadPro-LF sub-encoding to TS1/1 on input line
+ 758.
+Package textcomp Info: Setting MyriadPro-TLF sub-encoding to TS1/1 on input lin
+e 759.
+Package textcomp Info: Setting MyriadPro-OsF sub-encoding to TS1/1 on input lin
+e 760.
+Package textcomp Info: Setting MyriadPro-TOsF sub-encoding to TS1/1 on input li
+ne 761.
+LaTeX Info: Redefining \LaTeX on input line 830.
+LaTeX Font Info:    Try loading font information for T1+MyriadPro-OsF on input 
+line 862.
+
+(/Users/Andy 1/Library/texmf/tex/latex/MyriadPro/t1myriadpro-osf.fd
+File: T1MyriadPro-OsF.fd 2011/12/19 v0.1 font definitions for T1/MyriadPro-OsF.
+
+
+(/Users/Andy 1/Library/texmf/tex/latex/MyriadPro/MyriadPro-FontDef.sty
+File: MyriadPro-FontDef.sty 2012/02/17 v0.3 font definition macros
+)))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerfontthemeprofessiona
+lfonts.sty)
+\c@prop=\count349
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+Package: pgf 2019/04/04 v3.1.2 (3.1.2)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
+e.tex
+File: pgfmoduleshapes.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgfnodeparttextbox=\box75
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
+tex
+File: pgfmoduleplot.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-0-65.sty
+Package: pgfcomp-version-0-65 2019/04/04 v3.1.2 (3.1.2)
+\pgf@nodesepstart=\dimen311
+\pgf@nodesepend=\dimen312
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-1-18.sty
+Package: pgfcomp-version-1-18 2019/04/04 v3.1.2 (3.1.2)
+))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2019/04/04 v3.1.2 (3.1.2)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen313
+\pgffor@skip=\dimen314
+\pgffor@stack=\toks43
+\pgffor@toks=\toks44
+))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
+e.tex
+Package: tikz 2019/04/04 v3.1.2 (3.1.2)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
+dlers.code.tex
+File: pgflibraryplothandlers.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@plot@mark@count=\count350
+\pgfplotmarksize=\dimen315
+)
+\tikz@lastx=\dimen316
+\tikz@lasty=\dimen317
+\tikz@lastxsaved=\dimen318
+\tikz@lastysaved=\dimen319
+\tikzleveldistance=\dimen320
+\tikzsiblingdistance=\dimen321
+\tikz@figbox=\box76
+\tikz@figbox@bg=\box77
+\tikz@tempbox=\box78
+\tikz@tempbox@bg=\box79
+\tikztreelevel=\count351
+\tikznumberofchildren=\count352
+\tikznumberofcurrentchild=\count353
+\tikz@fig@count=\count354
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
+e.tex
+File: pgfmodulematrix.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgfmatrixcurrentrow=\count355
+\pgfmatrixcurrentcolumn=\count356
+\pgf@matrix@numberofcolumns=\count357
+)
+\tikz@expandcount=\count358
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2016/04/27 v1.618033 publication quality tables
+\heavyrulewidth=\dimen322
+\lightrulewidth=\dimen323
+\cmidrulewidth=\dimen324
+\belowrulesep=\dimen325
+\belowbottomsep=\dimen326
+\aboverulesep=\dimen327
+\abovetopsep=\dimen328
+\cmidrulesep=\dimen329
+\cmidrulekern=\dimen330
+\defaultaddspace=\dimen331
+\@cmidla=\count359
+\@cmidlb=\count360
+\@aboverulesep=\dimen332
+\@belowrulesep=\dimen333
+\@thisruleclass=\count361
+\@lastruleclass=\count362
+\@thisrulewidth=\dimen334
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tabulary/tabulary.sty
+Package: tabulary 2014/06/11 v0.10 tabulary package (DPC)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/array.sty
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
+\col@sep=\dimen335
+\ar@mcellbox=\box80
+\extrarowheight=\dimen336
+\NC@list=\toks45
+\extratabsurround=\skip72
+\backup@length=\skip73
+\ar@cellbox=\box81
+)
+\TY@count=\count363
+\TY@linewidth=\dimen337
+\tymin=\dimen338
+\tymax=\dimen339
+\TY@tablewidth=\dimen340
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/threeparttable/threeparttable.sty
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box82
+)
+
+Package xeCJK Warning: Undefined CJK default family `\CJKsfdefault' has been
+(xeCJK)                replaced by `\CJKrmdefault'.
+(xeCJK)                
+(xeCJK)                Try to use `\setCJKsansfont[...]{...}' to define it.
+
+(./20201228_HS_Decks.aux)
+\openout1 = `20201228_HS_Decks.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 44.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 44.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 44.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot 
+* h-part:(L,W,R)=(11.74983pt, 340.6957pt, 11.74983pt)
+* v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
+* \paperwidth=364.19536pt
+* \paperheight=273.14662pt
+* \textwidth=340.6957pt
+* \textheight=244.6939pt
+* \oddsidemargin=-60.52016pt
+* \evensidemargin=-60.52016pt
+* \topmargin=-72.26999pt
+* \headheight=14.22636pt
+* \headsep=0.0pt
+* \topskip=12.0pt
+* \footskip=14.22636pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ABD: EveryShipout initializing macros
+\AtBeginShipoutBox=\box83
+Package hyperref Info: Link coloring OFF on input line 44.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count364
+)
+LaTeX Info: Redefining \ref on input line 44.
+LaTeX Info: Redefining \pageref on input line 44.
+LaTeX Info: Redefining \nameref on input line 44.
+
+(./20201228_HS_Decks.out) (./20201228_HS_Decks.out)
+\@outlinefile=\write5
+\openout5 = `20201228_HS_Decks.out'.
+
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/translator/translator-basic-dicti
+onary-English.dict
+Dictionary: translator-basic-dictionary, Language: English 
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/translator/translator-bibliograph
+y-dictionary-English.dict
+Dictionary: translator-bibliography-dictionary, Language: English 
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/translator/translator-environment
+-dictionary-English.dict
+Dictionary: translator-environment-dictionary, Language: English 
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/translator/translator-months-dict
+ionary-English.dict
+Dictionary: translator-months-dictionary, Language: English 
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/translator/translator-numbers-dic
+tionary-English.dict
+Dictionary: translator-numbers-dictionary, Language: English 
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/translator/translator-theorem-dic
+tionary-English.dict
+Dictionary: translator-theorem-dictionary, Language: English 
+) (./20201228_HS_Decks.nav)
+
+LaTeX Font Warning: Font shape `T1/MyriadPro-OsF/m/sc' undefined
+(Font)              using `T1/MyriadPro-OsF/m/n' instead on input line 47.
+
+[1
+
+] (./20201228_HS_Decks.toc) [2
+
+] [3
+
+]
+\openout4 = `20201228_HS_Decks.vrb'.
+
+ (./20201228_HS_Decks.vrb
+File: figure/f01.jpg Graphic file (type bmp)
+<figure/f01.jpg>
+) [4
+
+]
+\openout4 = `20201228_HS_Decks.vrb'.
+
+
+(./20201228_HS_Decks.vrb
+File: figure/f02-1.png Graphic file (type bmp)
+<figure/f02-1.png>
+) [5
+
+]
+\openout4 = `20201228_HS_Decks.vrb'.
+
+ (./20201228_HS_Decks.vrb
+File: figure/f02-2.png Graphic file (type bmp)
+<figure/f02-2.png>
+) [6
+
+]
+\openout4 = `20201228_HS_Decks.vrb'.
+
+
+(./20201228_HS_Decks.vrb
+! Extra }, or forgotten \endgroup.
+l.8 ^^I^^I\end{enumerate}}
+                          
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+) [7
+
+] [8
+
+]
+\openout4 = `20201228_HS_Decks.vrb'.
+
+ (./20201228_HS_Decks.vrb) [9
+
+] [10
+
+]
+\openout4 = `20201228_HS_Decks.vrb'.
+
+ (./20201228_HS_Decks.vrb) [11
+
+]
+\openout4 = `20201228_HS_Decks.vrb'.
+
+
+(./20201228_HS_Decks.vrb
+File: figure/f03.png Graphic file (type bmp)
+<figure/f03.png>
+) [12
+
+]
+\openout4 = `20201228_HS_Decks.vrb'.
+
+ (./20201228_HS_Decks.vrb
+File: figure/f04.png Graphic file (type bmp)
+<figure/f04.png>
+) [13
+
+]
+\openout4 = `20201228_HS_Decks.vrb'.
+
+
+(./20201228_HS_Decks.vrb
+File: figure/f05.png Graphic file (type bmp)
+<figure/f05.png>
+) [14
+
+]
+\openout4 = `20201228_HS_Decks.vrb'.
+
+ (./20201228_HS_Decks.vrb
+LaTeX Font Info:    Try loading font information for T1+MinionPro-OsF on input 
+line 4.
+
+(/Users/Andy 1/Library/texmf/tex/latex/MinionPro/t1minionpro-osf.fd
+File: T1MinionPro-OsF.fd 2005/01/23 v2.0 font definitions for T1/MinionPro-OsF.
+
+
+(/Users/Andy 1/Library/texmf/tex/latex/MinionPro/MinionPro-FontDef.sty
+File: MinionPro-FontDef.sty 2007/02/01 v2.2 font definition macros
+))
+LaTeX Font Info:    Try loading font information for OML+MinionPro-TOsF on inpu
+t line 4.
+
+(/Users/Andy 1/Library/texmf/tex/latex/MinionPro/omlminionpro-tosf.fd
+File: OMLMinionPro-TOsF.fd 2005/01/23 v2.0 font definitions for OML/MinionPro-T
+OsF.
+
+(/Users/Andy 1/Library/texmf/tex/latex/MinionPro/MinionPro-FontDef.sty
+File: MinionPro-FontDef.sty 2007/02/01 v2.2 font definition macros
+))
+LaTeX Font Info:    Try loading font information for U+msa on input line 4.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 4.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)) [15
+
+] [16
+
+]
+\openout4 = `20201228_HS_Decks.vrb'.
+
+
+(./20201228_HS_Decks.vrb) [17
+
+] [18
+
+]
+\openout4 = `20201228_HS_Decks.vrb'.
+
+ (./20201228_HS_Decks.vrb) [19
+
+]
+\openout4 = `20201228_HS_Decks.vrb'.
+
+
+(./20201228_HS_Decks.vrb) [20
+
+]
+\openout4 = `20201228_HS_Decks.vrb'.
+
+ (./20201228_HS_Decks.vrb
+File: figure/f06.png Graphic file (type bmp)
+<figure/f06.png>
+) [21
+
+]
+\openout4 = `20201228_HS_Decks.vrb'.
+
+
+(./20201228_HS_Decks.vrb
+File: figure/f07.png Graphic file (type bmp)
+<figure/f07.png>
+) [22
+
+]
+\openout4 = `20201228_HS_Decks.vrb'.
+
+ (./20201228_HS_Decks.vrb) [23
+
+]
+\openout4 = `20201228_HS_Decks.vrb'.
+
+
+(./20201228_HS_Decks.vrb
+File: figure/f09.png Graphic file (type bmp)
+<figure/f09.png>
+) [24
+
+]
+\openout4 = `20201228_HS_Decks.vrb'.
+
+ (./20201228_HS_Decks.vrb
+File: figure/f10.png Graphic file (type bmp)
+<figure/f10.png>
+) [25
+
+]
+\openout4 = `20201228_HS_Decks.vrb'.
+
+
+(./20201228_HS_Decks.vrb
+File: figure/plot/1a.png Graphic file (type bmp)
+<figure/plot/1a.png>
+) [26
+
+]
+\openout4 = `20201228_HS_Decks.vrb'.
+
+ (./20201228_HS_Decks.vrb
+File: figure/plot/1a_importance.png Graphic file (type bmp)
+<figure/plot/1a_importance.png>
+)
+Overfull \vbox (29.84015pt too high) detected at line 380
+ []
+
+[27
+
+]
+\openout4 = `20201228_HS_Decks.vrb'.
+
+ (./20201228_HS_Decks.vrb) [28
+
+]
+\openout4 = `20201228_HS_Decks.vrb'.
+
+ (./20201228_HS_Decks.vrb
+File: figure/plot/2b.png Graphic file (type bmp)
+<figure/plot/2b.png>
+) [29
+
+]
+\openout4 = `20201228_HS_Decks.vrb'.
+
+
+(./20201228_HS_Decks.vrb
+File: figure/plot/2c.png Graphic file (type bmp)
+<figure/plot/2c.png>
+) [30
+
+]
+\openout4 = `20201228_HS_Decks.vrb'.
+
+ (./20201228_HS_Decks.vrb
+File: figure/plot/2d.png Graphic file (type bmp)
+<figure/plot/2d.png>
+) [31
+
+]
+\openout4 = `20201228_HS_Decks.vrb'.
+
+
+(./20201228_HS_Decks.vrb
+File: figure/plot/2_DH.png Graphic file (type bmp)
+<figure/plot/2_DH.png>
+) [32
+
+]
+\openout4 = `20201228_HS_Decks.vrb'.
+
+ (./20201228_HS_Decks.vrb
+File: figure/plot/2_Druid.png Graphic file (type bmp)
+<figure/plot/2_Druid.png>
+) [33
+
+]
+\openout4 = `20201228_HS_Decks.vrb'.
+
+
+(./20201228_HS_Decks.vrb
+File: figure/plot/2_hunter.png Graphic file (type bmp)
+<figure/plot/2_hunter.png>
+) [34
+
+]
+\openout4 = `20201228_HS_Decks.vrb'.
+
+ (./20201228_HS_Decks.vrb
+File: figure/plot/2_mage.png Graphic file (type bmp)
+<figure/plot/2_mage.png>
+) [35
+
+]
+\openout4 = `20201228_HS_Decks.vrb'.
+
+
+(./20201228_HS_Decks.vrb
+File: figure/plot/2_paladin.png Graphic file (type bmp)
+<figure/plot/2_paladin.png>
+) [36
+
+]
+\openout4 = `20201228_HS_Decks.vrb'.
+
+ (./20201228_HS_Decks.vrb
+File: figure/plot/2_rouge.png Graphic file (type bmp)
+<figure/plot/2_rouge.png>
+) [37
+
+]
+\openout4 = `20201228_HS_Decks.vrb'.
+
+
+(./20201228_HS_Decks.vrb
+File: figure/plot/2_shaman.png Graphic file (type bmp)
+<figure/plot/2_shaman.png>
+) [38
+
+]
+\openout4 = `20201228_HS_Decks.vrb'.
+
+ (./20201228_HS_Decks.vrb
+File: figure/plot/2_warlock.png Graphic file (type bmp)
+<figure/plot/2_warlock.png>
+) [39
+
+]
+\openout4 = `20201228_HS_Decks.vrb'.
+
+
+(./20201228_HS_Decks.vrb
+File: figure/plot/2_warriro.png Graphic file (type bmp)
+<figure/plot/2_warriro.png>
+) [40
+
+]
+\openout4 = `20201228_HS_Decks.vrb'.
+
+ (./20201228_HS_Decks.vrb
+File: figure/plot/2a.png Graphic file (type bmp)
+<figure/plot/2a.png>
+) [41
+
+]
+\openout4 = `20201228_HS_Decks.vrb'.
+
+
+(./20201228_HS_Decks.vrb
+File: figure/plot/3b.png Graphic file (type bmp)
+<figure/plot/3b.png>
+)
+Overfull \vbox (4.4985pt too high) detected at line 529
+ []
+
+[42
+
+]
+\openout4 = `20201228_HS_Decks.vrb'.
+
+ (./20201228_HS_Decks.vrb
+File: figure/plot/3c.png Graphic file (type bmp)
+<figure/plot/3c.png>
+)
+Overfull \vbox (14.98833pt too high) detected at line 542
+ []
+
+[43
+
+]
+\openout4 = `20201228_HS_Decks.vrb'.
+
+ (./20201228_HS_Decks.vrb
+File: figure/plot/3_deckname.png Graphic file (type bmp)
+<figure/plot/3_deckname.png>
+)
+Overfull \vbox (9.3743pt too high) detected at line 556
+ []
+
+[44
+
+]
+\openout4 = `20201228_HS_Decks.vrb'.
+
+ (./20201228_HS_Decks.vrb) [45
+
+]
+\openout4 = `20201228_HS_Decks.vrb'.
+
+ (./20201228_HS_Decks.vrb
+File: figure/plot/3d_dust_cost.png Graphic file (type bmp)
+<figure/plot/3d_dust_cost.png>
+)
+Overfull \vbox (16.71954pt too high) detected at line 576
+ []
+
+[46
+
+]
+\openout4 = `20201228_HS_Decks.vrb'.
+
+ (./20201228_HS_Decks.vrb
+File: figure/plot/3e_time_duration.png Graphic file (type bmp)
+<figure/plot/3e_time_duration.png>
+)
+Overfull \vbox (20.54977pt too high) detected at line 589
+ []
+
+[47
+
+]
+\openout4 = `20201228_HS_Decks.vrb'.
+
+ (./20201228_HS_Decks.vrb
+File: figure/plot/3a.png Graphic file (type bmp)
+<figure/plot/3a.png>
+) [48
+
+]
+\openout4 = `20201228_HS_Decks.vrb'.
+
+ (./20201228_HS_Decks.vrb
+File: figure/plot/3a_importance.png Graphic file (type bmp)
+<figure/plot/3a_importance.png>
+) [49
+
+]
+\openout4 = `20201228_HS_Decks.vrb'.
+
+
+(./20201228_HS_Decks.vrb
+File: figure/plot/3a_no_hero.png Graphic file (type bmp)
+<figure/plot/3a_no_hero.png>
+) [50
+
+]
+\openout4 = `20201228_HS_Decks.vrb'.
+
+ (./20201228_HS_Decks.vrb
+File: figure/plot/3a_no_hero_importance.png Graphic file (type bmp)
+<figure/plot/3a_no_hero_importance.png>
+) [51
+
+] [52
+
+]
+\openout4 = `20201228_HS_Decks.vrb'.
+
+
+(./20201228_HS_Decks.vrb) [53
+
+] [54
+
+]
+\openout4 = `20201228_HS_Decks.vrb'.
+
+ (./20201228_HS_Decks.vrb) [55
+
+]
+\tf@nav=\write6
+\openout6 = `20201228_HS_Decks.nav'.
+
+\tf@toc=\write7
+\openout7 = `20201228_HS_Decks.toc'.
+
+\tf@snm=\write8
+\openout8 = `20201228_HS_Decks.snm'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 672.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 672.
+
+(./20201228_HS_Decks.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 672.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 672.
+Package rerunfilecheck Info: File `20201228_HS_Decks.out' has not changed.
+(rerunfilecheck)             Checksum: B7CFCDA8309C6425EC6EBCD8647D39EF.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 39927 strings out of 492916
+ 816955 string characters out of 6133345
+ 880432 words of memory out of 5000000
+ 43241 multiletter control sequences out of 15000+600000
+ 682554 words of font info for 75 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 56i,15n,65p,802b,767s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on 20201228_HS_Decks.xdv (55 pages, 1496744 bytes).

@@ -1,0 +1,101 @@
+---
+title: "PCA for Hearthstone Decks"
+author: "Boyie Chen R08323004"
+date: "12/24/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+# Load Pacakges
+library(tidyverse)
+#getwd()
+# Load Data
+df <- read_csv("/Users/Andy 1/Google 雲端硬碟 (r08323004@g.ntu.edu.tw)/0 Semesters/109-1/四 ccClub進階班/Final Projects/HS_Decks/2_tidy_data/data/df_Decks_tidy.csv")
+```
+
+```{r}
+avg_win_rate = mean(df$win_rate_RE/100)
+sd_win_rate = sd(df$win_rate_RE/100)
+hist(df$win_rate_RE/100, freq = F)
+plot(density(df$win_rate_RE/100/avg_win_rate))
+hist(df$win_rate_RE/100/avg_win_rate)
+hist((df$win_rate_RE/100-avg_win_rate)/sd_win_rate)
+#quantile(df$win_rate_RE/100, probs = c(0.))
+```
+
+
+```{r}
+reg1 <- lm(win_rate_RE~., data = df)
+summary(reg1)
+```
+# Find the ajacent matrix for all users listed in the dataframe
+
+```{r}
+df <- df %>% select(-1)
+features <- colnames(df)[1:17]
+# subset the cards
+cards <- df %>% 
+  select(-features)
+rownames(cards) <- paste0("deck_",1:length(df$Deck_ID))
+head(rownames(cards))
+```
+
+### PCA
+```{r}
+# PCA
+card_PCA <- prcomp(cards, center = T, scale. = T)
+```
+
+```{r}
+getwd()
+saveRDS(card_PCA, file = "card_PCA.rds")
+# Restore the object
+#readRDS(file = "card_PCA.rds.rds")
+```
+
+### Plot
+
+```{r}
+# summary(pca)
+card_PCA$x %>% as_tibble() %>% select(PC1, PC2, PC3, PC4) %>% head()
+```
+### Attaching IDs
+
+```{r}
+pca_plot <- card_PCA$x %>%
+  as_tibble() %>%
+  select(1:4) %>%
+  bind_cols(ID = rownames(cards)) %>% 
+  arrange(desc(PC1, PC2))
+```
+
+```{r}
+dim(card_PCA$x)
+```
+
+### Visualization
+
+```{r}
+pca_plot %>% 
+  ggplot(aes(PC1, PC2))+
+  geom_point()
+
+plot(pca_plot$PC1, pca_plot$PC2,
+     ylim = c(-20, 20), xlim = c(-15, 10))
+```
+
+
+```{r}
+biplot(card_PCA, scale = 0)
+
+library(ggfortify)
+length(unique(df$Deck_ID))
+autoplot(card_PCA, data = df, colour = 'Warrior')
+```
+```{r}
+autoplot(card_PCA, data = df, colour = 'Warrior')
+```
