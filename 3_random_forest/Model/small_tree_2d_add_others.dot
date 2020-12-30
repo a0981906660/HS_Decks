@@ -1,0 +1,32 @@
+digraph Tree {
+node [shape=box] ;
+0 [label="time_duration_RE <= 8.15\nmse = 0.006\nsamples = 8409\nvalue = 0.536"] ;
+1 [label="time_duration_RE <= 5.15\nmse = 0.006\nsamples = 4692\nvalue = 0.559"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="Card_59705 <= 0.5\nmse = 0.024\nsamples = 63\nvalue = 0.292"] ;
+1 -> 2 ;
+3 [label="mse = 0.005\nsamples = 41\nvalue = 0.193"] ;
+2 -> 3 ;
+4 [label="mse = 0.01\nsamples = 22\nvalue = 0.46"] ;
+2 -> 4 ;
+5 [label="Card_56678 <= 0.5\nmse = 0.005\nsamples = 4629\nvalue = 0.562"] ;
+1 -> 5 ;
+6 [label="mse = 0.005\nsamples = 4261\nvalue = 0.57"] ;
+5 -> 6 ;
+7 [label="mse = 0.005\nsamples = 368\nvalue = 0.48"] ;
+5 -> 7 ;
+8 [label="Card_57546 <= 1.5\nmse = 0.004\nsamples = 3717\nvalue = 0.507"] ;
+0 -> 8 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+9 [label="Card_59253 <= 0.5\nmse = 0.004\nsamples = 3418\nvalue = 0.501"] ;
+8 -> 9 ;
+10 [label="mse = 0.003\nsamples = 3129\nvalue = 0.506"] ;
+9 -> 10 ;
+11 [label="mse = 0.004\nsamples = 289\nvalue = 0.45"] ;
+9 -> 11 ;
+12 [label="dust_cost <= 8860.0\nmse = 0.002\nsamples = 299\nvalue = 0.575"] ;
+8 -> 12 ;
+13 [label="mse = 0.002\nsamples = 181\nvalue = 0.56"] ;
+12 -> 13 ;
+14 [label="mse = 0.001\nsamples = 118\nvalue = 0.596"] ;
+12 -> 14 ;
+}
